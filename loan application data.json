@@ -1,0 +1,202 @@
+[
+  {
+    "applicant_id": 1,
+    "name": "John Doe",
+    "age": 35,
+    "income": 60000,
+    "credit_score": 720,
+    "loan_amount_requested": 50000,
+    "loan_term_months": 36,
+    "interest_rate": 4.5
+  },
+  {
+    "applicant_id": 2,
+    "name": "Jane Smith",
+    "age": 28,
+    "income": 45000,
+    "credit_score": 680,
+    "loan_amount_requested": 30000,
+    "loan_term_months": 24,
+    "interest_rate": 6.2
+  },
+  {
+    "applicant_id": 3,
+    "name": "Michael Johnson",
+    "age": 40,
+    "income": 75000,
+    "credit_score": 800,
+    "loan_amount_requested": 80000,
+    "loan_term_months": 48,
+    "interest_rate": 3.8
+  },
+  {
+    "applicant_id": 4,
+    "name": "Emily Davis",
+    "age": 33,
+    "income": 55000,
+    "credit_score": 700,
+    "loan_amount_requested": 45000,
+    "loan_term_months": 36,
+    "interest_rate": 5.0
+  },
+  {
+    "applicant_id": 5,
+    "name": "David Wilson",
+    "age": 45,
+    "income": 90000,
+    "credit_score": 750,
+    "loan_amount_requested": 70000,
+    "loan_term_months": 60,
+    "interest_rate": 4.2
+  },
+  {
+    "applicant_id": 6,
+    "name": "Sarah Martinez",
+    "age": 29,
+    "income": 48000,
+    "credit_score": 690,
+    "loan_amount_requested": 25000,
+    "loan_term_months": 24,
+    "interest_rate": 6.5
+  },
+  {
+    "applicant_id": 7,
+    "name": "Robert Brown",
+    "age": 37,
+    "income": 65000,
+    "credit_score": 720,
+    "loan_amount_requested": 60000,
+    "loan_term_months": 48,
+    "interest_rate": 4.0
+  },
+  {
+    "applicant_id": 8,
+    "name": "Jennifer Taylor",
+    "age": 31,
+    "income": 52000,
+    "credit_score": 710,
+    "loan_amount_requested": 35000,
+    "loan_term_months": 36,
+    "interest_rate": 5.8
+  },
+  {
+    "applicant_id": 9,
+    "name": "Christopher Rodriguez",
+    "age": 39,
+    "income": 70000,
+    "credit_score": 780,
+    "loan_amount_requested": 55000,
+    "loan_term_months": 48,
+    "interest_rate": 4.3
+  },
+  {
+    "applicant_id": 10,
+    "name": "Amanda Hernandez",
+    "age": 27,
+    "income": 42000,
+    "credit_score": 660,
+    "loan_amount_requested": 20000,
+    "loan_term_months": 24,
+    "interest_rate": 7.0
+  },
+  {
+    "applicant_id": 11,
+    "name": "James Gonzalez",
+    "age": 32,
+    "income": 58000,
+    "credit_score": 730,
+    "loan_amount_requested": 40000,
+    "loan_term_months": 36,
+    "interest_rate": 5.5
+  },
+  {
+    "applicant_id": 12,
+    "name": "Jessica Perez",
+    "age": 34,
+    "income": 62000,
+    "credit_score": 740,
+    "loan_amount_requested": 45000,
+    "loan_term_months": 48,
+    "interest_rate": 4.2
+  },
+  {
+    "applicant_id": 13,
+    "name": "Daniel Ramirez",
+    "age": 36,
+    "income": 66000,
+    "credit_score": 760,
+    "loan_amount_requested": 50000,
+    "loan_term_months": 48,
+    "interest_rate": 4.0
+  },
+  {
+    "applicant_id": 14,
+    "name": "Ashley Flores",
+    "age": 30,
+    "income": 50000,
+    "credit_score": 700,
+    "loan_amount_requested": 30000,
+    "loan_term_months": 24,
+    "interest_rate": 6.0
+  },
+  {
+    "applicant_id": 15,
+    "name": "Matthew Cruz",
+    "age": 41,
+    "income": 72000,
+    "credit_score": 770,
+    "loan_amount_requested": 60000,
+    "loan_term_months": 48,
+    "interest_rate": 4.1
+  },
+  {
+    "applicant_id": 16,
+    "name": "Laura Sanchez",
+    "age": 26,
+    "income": 40000,
+    "credit_score": 650,
+    "loan_amount_requested": 20000,
+    "loan_term_months": 24,
+    "interest_rate": 7.2
+  },
+  {
+    "applicant_id": 17,
+    "name": "Kevin Torres",
+    "age": 38,
+    "income": 68000,
+    "credit_score": 750,
+    "loan_amount_requested": 50000,
+    "loan_term_months": 36,
+    "interest_rate": 4.6
+  },
+  {
+    "applicant_id": 18,
+    "name": "Megan King",
+    "age": 29,
+    "income": 48000,
+    "credit_score": 690,
+    "loan_amount_requested": 25000,
+    "loan_term_months": 24,
+    "interest_rate": 6.7
+  },
+  {
+    "applicant_id": 19,
+    "name": "Justin Lee",
+    "age": 42,
+    "income": 74000,
+    "credit_score": 780,
+    "loan_amount_requested": 65000,
+    "loan_term_months": 48,
+    "interest_rate": 3.9
+  },
+  {
+    "applicant_id": 20,
+    "name": "Stephanie Nguyen",
+    "age": 33,
+    "income": 56000,
+    "credit_score": 710,
+    "loan_amount_requested": 40000,
+    "loan_term_months": 36,
+    "interest_rate": 5.3
+  }
+]
